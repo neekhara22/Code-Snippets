@@ -1,6 +1,6 @@
 package DsaQue;
 
-public class RotateSomeDigitOfANumber {
+public class RotateANumberBySomeValue {
 
 	public static void main(String[] args) {
 		int num = 123456789;
