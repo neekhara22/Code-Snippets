@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-import GFG.Arraylist;
 
 public class TicTacToe {
 
