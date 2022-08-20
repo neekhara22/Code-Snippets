@@ -2,7 +2,7 @@ package DataStructure;
 
 import java.util.Arrays;
 
-public class BubbleDort {
+public class BubbleSort {
 
 	public static void main(String[] args) {
 		int[] array = { 5, 4, 3, 2, 1 };
