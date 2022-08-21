@@ -1,2 +1,2 @@
-# Projects & Code snippets
+# Code snippets
 Learning Purpose
